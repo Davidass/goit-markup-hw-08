@@ -480,7 +480,7 @@ img {
   border: none;
 }
 
-.icon-lake {
+.overlay-icons__item--icon-lake {
   position: absolute;
   left: 0;
   width: 48px;
@@ -488,7 +488,7 @@ img {
   background-image: url(../images/icons/button-icons/lake.png);
 }
 
-.icon-shuffe {
+.overlay-icons__item--icon-shuffe {
   position: absolute;
   left: 60px;
   width: 48px;
@@ -496,7 +496,7 @@ img {
   background-image: url(../images/icons/button-icons/shuffle.png);
 }
 
-.icon-clock {
+.overlay-icons__item--icon-clock {
   position: absolute;
   right: 0;
   width: 48px;
@@ -504,7 +504,7 @@ img {
   background-image: url(../images/icons/button-icons/cloke.png);
 }
 
-.icon-cart {
+.overlay-icons__item--icon-cart {
   position: absolute;
   width: 168px;
   height: 48px;
@@ -516,7 +516,7 @@ img {
   text-align: center;
 }
 
-.icon-text {
+.overlay-icons__item--icon-text {
   position: absolute;
   top: 7px;
   left: 55px;
